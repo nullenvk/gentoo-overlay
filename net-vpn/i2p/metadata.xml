@@ -13,6 +13,10 @@
 	<email>proxy-maint@gentoo.org</email>
 	<name>Proxy Maintainers</name>
 </maintainer>
+<maintainer type="person" proxied="yes">
+	<email>lxeiqr@protonmail.com</email>
+	<name>lxeiqr</name>
+</maintainer>
 <longdescription>I2P is an anonymous network, exposing a simple layer that applications can use to anonymously and securely send messages to each other.</longdescription>
 <use>
 	<flag name="nls">Adds Native Language Support using GNU gettext.</flag>
