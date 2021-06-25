@@ -13,7 +13,7 @@
 	<email>proxy-maint@gentoo.org</email>
 	<name>Proxy Maintainers</name>
 </maintainer>
-<maintainer type="person" proxied="yes">
+<maintainer type="person">
 	<email>lxeiqr@protonmail.com</email>
 	<name>lxeiqr</name>
 </maintainer>
