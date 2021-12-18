@@ -1,2 +1,2 @@
-# gentoo-overlay
+# gentoo-overlay (dead)
 This is my Gentoo overlay for personal, random stuff, such as patches that enable sndio support or new packages.
